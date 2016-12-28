@@ -4,3 +4,5 @@ Updating every setting in ambari takes forever. This is very basic (sort of dirt
 programatically.
 
 After all updates are done, you can restart-all-needed from ambari-ui.
+
+E.g: sh tune.sh settings.csv localhost admin admin 8080 benchmarkcluster
