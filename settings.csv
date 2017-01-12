@@ -26,6 +26,7 @@ tez-site^tez.am.resource.memory.mb^4096
 tez-site^tez.runtime.io.sort.mb^1500
 tez-site^tez.runtime.unordered.output.buffer.size-mb^307
 tez-site^tez.runtime.shuffle.keep-alive.enabled^true
+tez-site^tez.runtime.pipelined.sorter.lazy-allocate.memory^true
 mapred-site^mapreduce.shuffle.connection-keep-alive.enable^true
 yarn-site^yarn.nodemanager.resource.memory-mb^61440
 yarn-site^yarn.scheduler.maximum-allocation-mb^61440
