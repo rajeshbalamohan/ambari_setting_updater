@@ -32,4 +32,5 @@ yarn-site^yarn.scheduler.maximum-allocation-mb^61440
 yarn-site^yarn.scheduler.minimum-allocation-mb^4096
 yarn-site^yarn.nodemanager.resource.cpu-vcores^15
 yarn-site^yarn.scheduler.maximum-allocation-vcores^15
+yarn-site^yarn.nodemanager.pmem-check-enabled^false
 capacity-scheduler^yarn.scheduler.capacity.node-locality-delay^0
