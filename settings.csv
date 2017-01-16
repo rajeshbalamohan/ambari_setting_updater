@@ -20,6 +20,7 @@ hive-interactive-env^slider_am_container_mb^4096
 hive-interactive-site^hive.llap.daemon.num.executors^8
 hive-interactive-site^hive.llap.io.memory.size^16384
 hive-interactive-site^hive.llap.io.threadpool.size^8
+hive-interactive-site^hive.vectorized.execution.mapjoin.minmax.enabled^true
 tez-interactive-site^tez.am.resource.memory.mb^4096
 tez-site^tez.task.resource.memory.mb^4096
 tez-site^tez.am.resource.memory.mb^4096
